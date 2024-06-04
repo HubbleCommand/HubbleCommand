@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @HubbleCommand
-- 👀 I’m interested in Game & App dev, and learning new frameworks
-- 🌱 I’m currently learning Godot & Flutter
-- :hammer: Currently working on Guide, Invaderz, GD, & ThinkStory
-- 💞️ I’m looking to collaborate on ...
+- 👉 "Blog" of my ramblings at https://hubblecommand.github.io/
+- :telescope: Currently working on some interesting projects that will hopefully be made public Q4 of this year
+- :hammer: hammering things out IRL
