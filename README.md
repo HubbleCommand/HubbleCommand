@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @HubbleCommand
-- 👉 "Blog" of my ramblings at https://hubblecommand.github.io/
+- 👉 "Blog" of my ramblings [here](https://hubblecommand.github.io/)
 - :telescope: Currently working on some interesting projects that will hopefully be made public Q4 of this year
 - :hammer: hammering things out IRL
