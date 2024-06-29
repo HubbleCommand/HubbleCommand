@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @HubbleCommand
-- 👉 "Blog" of my ramblings [here](https://hubblecommand.github.io/)
-- :telescope: Currently working on some interesting projects that will hopefully be made public Q4 of this year
+- :loudspeaker: my ramblings are [here](https://hubblecommand.github.io/)
+- :construction_worker: working on [run](https://github.com/HubbleCommand/run) & [preftils](https://github.com/HubbleCommand/preftils) (+ some private GD plugins)
+- :telescope: More projects to be released in 2024/Q4
 - :hammer: hammering things out IRL
