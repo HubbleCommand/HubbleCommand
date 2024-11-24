@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HubbleCommand
 - :loudspeaker: my ramblings are [here](https://hubblecommand.github.io/)
-- :construction_worker: working on [run](https://github.com/HubbleCommand/run), [preftils](https://github.com/HubbleCommand/preftils), & [mobile controls](https://github.com/HubbleCommand/mobile_controls) (+ some private GD plugins)
-- :telescope: More projects to be released in 2024/Q4
+- :construction_worker: working on [run](https://github.com/HubbleCommand/run) & [preftils](https://github.com/HubbleCommand/preftils)
+- :telescope: More projects to be released in 2025/Q1
 - :hammer: hammering things out IRL
